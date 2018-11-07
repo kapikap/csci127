@@ -33,5 +33,4 @@ def main():
 
 #Allow script to be run directly:
 if __name__ == "__main__":
-     main()
-                   
+    monthString()                   
